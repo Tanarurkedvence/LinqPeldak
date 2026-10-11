@@ -1,0 +1,7 @@
+Kategoria;Darab;Atlagar
+2 in 1 Convertible;35;51439,17
+Gaming;55;70392,10
+Netbook;8;32686,75
+Notebook;178;33139,02
+Ultrabook;44;63227,45
+Workstation;5;104426,77
